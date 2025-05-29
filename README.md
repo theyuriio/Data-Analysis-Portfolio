@@ -1,3 +1,19 @@
+## Yurii Riabkov - Portfolio
+## About
+I am passionate about uncovering patterns in data and transforming them into clear, actionable insights. My toolkit includes statistical analysis, data processing, and database engineering, backed by hands-on experience in SQL and Python.
+
+I specialize in:
+
+- Writing optimized SQL queries for data extraction and transformation
+
+- Performing exploratory data analysis using Python (Pandas, NumPy)
+
+- Applying statistical methods to validate findings and build predictive models
+
+- Designing efficient database structures and ETL pipelines
+
+My work focuses on delivering accurate, well-documented results that support data-driven decision making. I combine technical skills with business understanding to create solutions that are both robust and practical.
+
 ## Education
 
 Kherson Polytechnic Vocational College National
