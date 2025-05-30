@@ -14,6 +14,8 @@ I specialize in:
 
 My work focuses on delivering accurate, well-documented results that support data-driven decision making. I combine technical skills with business understanding to create solutions that are both robust and practical.
 
+My CV in [pdf](https://github.com/theyuriio/Data-Analysis-Portfolio/blob/main/Yurii-Riabkov-CV.pdf)
+
 ## Education
 
 Kherson Polytechnic Vocational College National
