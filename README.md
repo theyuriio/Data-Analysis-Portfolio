@@ -20,7 +20,7 @@ My CV in [pdf](https://github.com/theyuriio/Data-Analysis-Portfolio/blob/main/Yu
 In this section, I will showcase my data analytics projects, providing a brief overview of the tools and technologies used for each case.
 
 ### Data cleaning
-**Code:** ['Data_Cleaning.ipynb'](https://github.com/theyuriio/Data-Analyst-Project/blob/main/Python%20Notebooks/Data_Cleaning.ipynb)
+**Code:** [`Data_Cleaning.ipynb`](https://github.com/theyuriio/Data-Analyst-Project/blob/main/Python%20Notebooks/Data_Cleaning.ipynb)
 
 **Goal:** To clean, structure, and prepare the database for meaningful and efficient analysis.
 
@@ -31,7 +31,7 @@ In this section, I will showcase my data analytics projects, providing a brief o
 **Technology:** Python, Pandas, Numpy
 
 ### Retail Sales Dataset
-**Code:** ['retail_sales_dataset.ipynb'](https://github.com/theyuriio/Data-Analyst-Project/blob/main/Python%20Notebooks/retail_sales_dataset.ipynb)
+**Code:** [`retail_sales_dataset.ipynb`](https://github.com/theyuriio/Data-Analyst-Project/blob/main/Python%20Notebooks/retail_sales_dataset.ipynb)
 
 **Goal:** To analyze customer behavior and sales performance across product categories, identifying key trends and insights, while also performing data cleaning and preparation to ensure accuracy and consistency of the dataset.
 
