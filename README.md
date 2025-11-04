@@ -33,7 +33,7 @@ In this section, I will showcase my data analytics projects, providing a brief o
 ### Retail Sales Dataset
 **Code:** [`retail_sales_dataset.ipynb`](https://github.com/theyuriio/Data-Analyst-Project/blob/main/Python%20Notebooks/retail_sales_dataset.ipynb)
 
-**Goal:** To analyze customer behavior and sales performance across product categories, identifying key trends and insights, while also performing data cleaning and preparation to ensure accuracy and consistency of the dataset.
+**Goal:** [To analyze customer behavior and sales performance across product categories, identifying key trends and insights, while also performing data cleaning and preparation to ensure accuracy and consistency of the dataset.](https://github.com/theyuriio/Data-Analyst-Project/blob/main/Python%20Notebooks/HousingPricesDataset.ipynb)
 
 **Description:** The dataset contains retail transaction records with customer details, product categories, quantities, prices, and total amounts, enabling analysis of sales trends and customer behavior.
 
@@ -44,18 +44,18 @@ In this section, I will showcase my data analytics projects, providing a brief o
 **Results:** The analysis identified key customer segments, highlighted top-performing product categories, and revealed patterns in purchasing behavior across different demographics.
 
 
-###
-**Code:** 
+### Housing prices Dataset
+**Code:** [`HousingPricesDataset.ipynb`](https://github.com/theyuriio/Data-Analyst-Project/blob/main/Python%20Notebooks/HousingPricesDataset.ipynb)
 
-**Goal:** 
+**Goal:** Analyze how different property features affect housing prices using data preprocessing and linear regression.
 
-**Description:** 
+**Description:** A simple yet challenging project, to predict the housing price based on certain factors like house area, bedrooms, furnished, nearness to mainroad, etc.
 
-**Skills:** 
+**Skills:** data cleaning, ML, data visualisation
 
-**Technology:**
+**Technology:** sklearn.linear_model, numpy, pandas, matplotlib.pyplot, seaborn, plotly
 
-**Results:**
+**Results:** The analysis revealed which property features have the strongest impact on housing prices, highlighting the key structural and categorical factors that most influence property value.
 
 
 
