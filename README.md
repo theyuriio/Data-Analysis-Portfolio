@@ -62,31 +62,13 @@ In this section, I will showcase my data analytics projects, providing a brief o
 ###
 **Code:** 
 
-**Goal:** 
+**Goal:** Design and analyze SQL data marts to calculate key business metrics and provide a clear overview of sales performance using transactional data. 
 
-**Description:** 
+**Skills:** SQL Views creation, Data aggregation (SUM, GROUP BY), Multi-table joins, Dimensional analysis
 
-**Skills:** 
+**Technology:** SQL
 
-**Technology:**
-
-**Results:**
-
-
-
-###
-**Code:** 
-
-**Goal:** 
-
-**Description:** 
-
-**Skills:** 
-
-**Technology:**
-
-**Results:**
-
+**Results:** Built two analytical views that aggregate transactional data into key metrics, enabling efficient analysis of sales trends, customer activity, and product performance.
 
 
 ## Education
