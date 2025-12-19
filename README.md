@@ -60,7 +60,7 @@ In this section, I will showcase my data analytics projects, providing a brief o
 
 
 ###
-**Code:** 
+**Code:** [`SQL`](https://github.com/theyuriio/Data-Analyst-Project/tree/main/SQL)
 
 **Goal:** Design and analyze SQL data marts to calculate key business metrics and provide a clear overview of sales performance using transactional data. 
 
